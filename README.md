@@ -1,2 +1,2 @@
 # PyBlog
-Blog web application using Python, Django and ReactJs
+Blog web application using Python, Django
